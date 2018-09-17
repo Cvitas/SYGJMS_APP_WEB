@@ -10,12 +10,12 @@
                 <div>
                     <p class="contact-tips">请在输入框中输入您想咨询或预约的信息!</p>
                     <div class="contact-items">
-                        <div class="contact-left-item">
-                            <p class="user-name">法官 <span class="fs0-6 pl10">2018/06/05 09:30</span></p>
-                            <p class="contact-content">请问你上次咨询的事项的具体准侧能否发我邮箱?</p>
-                        </div>
                         <div class="contact-right-item">
                             <p class="user-name">我 <span class="fs0-6 pl10">2018/06/05 09:31</span></p>
+                            <p class="contact-content">我要消息上报</p>
+                        </div>
+                        <div class="contact-left-item">
+                            <p class="user-name">中心 <span class="fs0-6 pl10">2018/06/05 09:30</span></p>
                             <p class="contact-content">好的</p>
                         </div>
                     </div>

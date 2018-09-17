@@ -12,19 +12,19 @@
                         <div class="message-item">
                             <span class="no-read"></span>
                             <p class="item-email">dangshiren@cangxi-Email.com</p>
-                            <p class="item-content">回复：您好，感谢院长帮我们处理</p>
+                            <p class="item-content">回复：您好，感谢领导帮我们处理</p>
                             <p class="item-time">昨天</p>
                         </div>
                         <div class="message-item">
                             <span class="no-read"></span>
                             <p class="item-email">dangshiren@cangxi-Email.com</p>
-                            <p class="item-content">回复：我的案件进展</p>
+                            <p class="item-content">回复：我的任务进展</p>
                             <p class="item-time">昨天</p>
                         </div>
                         <div class="message-item">
                             <span class="no-read"></span>
                             <p class="item-email">dangshiren@cangxi-Email.com</p>
-                            <p class="item-content">回复：我的文书快递消息</p>
+                            <p class="item-content">回复：我的上报情况反馈消息</p>
                             <p class="item-time">昨天</p>
                         </div>
                     </div>

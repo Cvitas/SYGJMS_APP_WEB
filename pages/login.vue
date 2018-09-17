@@ -11,11 +11,9 @@
                     <div class="login-form">
                         <div class="login-form-item">
                             <select>
-                                <option>当事人</option>
-                                <option>法院工作人员</option>
-                                <option>律师</option>
-                                <option>送达小组</option>
-                                <option>代表委员</option>
+                                <option>民兵</option>
+                                <option>警察</option>
+                                <option>管理员</option>
                             </select>
                         </div>
                         <div class="login-form-item">

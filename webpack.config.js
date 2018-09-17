@@ -59,15 +59,15 @@ module.exports = {
             type: ROOT_PATH + '/store/mutation-types'
         }
     },
-    /*devServer: {
+    devServer: {
         contentBase: path.join(__dirname, "build"),
         host: "192.168.199.185",
         compress: true,
-        port: 9000,
+        port: 8080,
         proxy: [{ // proxy URLs to backend development server
             context: ["/rms"],
             target: "http://192.168.199.185:8080",
         }],
-    },*/
+    },
     devtool: 'inline-source-map'
 };

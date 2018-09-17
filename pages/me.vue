@@ -22,16 +22,8 @@
                             <span class=""><i class="icon-service color2"></i>修改个人信息</span>
                             <span class="user-detail">></span>
                         </div>
-                        <div class="user-item" @click="goRouter(2)">
-                            <span class=""><i class="icon-cart-total color3"></i>材料证据</span>
-                            <span class="user-detail">></span>
-                        </div>
-                        <div class="user-item" @click="goRouter(3)">
-                            <span class=""><i class="icon-dingdan color4"></i>文书送达</span>
-                            <span class="user-detail">></span>
-                        </div>
                         <div class="user-item" @click="goRouter(4)">
-                            <span class=""><i class="icon-qianbao color5"></i>联系法官</span>
+                            <span class=""><i class="icon-qianbao color5"></i>我要上报</span>
                             <span class="user-detail">></span>
                         </div>
                     </div>
@@ -71,7 +63,6 @@
                     case 2:
                         break;
                     case 3:
-                        this.$router.push("wenshu");
                         break;
                     case 4:
                         this.$router.push("contact");

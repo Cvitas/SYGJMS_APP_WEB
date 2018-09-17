@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack-dev-server --hot --inline --progress --config webpack.config.prod.js",
+    "dev": "webpack-dev-server --hot --inline --host 0.0.0.0 --progress --config webpack.config.prod.js",
     "build-w": "webpack -w  --config webpack.config.prod.js",
     "build": "webpack -p --progress --config  webpack.config.prod.js",
     "build:dll": "webpack --progress --config  ddl.config.js"
