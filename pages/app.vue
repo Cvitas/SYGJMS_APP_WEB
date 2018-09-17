@@ -41,7 +41,7 @@
                                 <span class="item-name">政策法规</span>
                             </div>
                             <div class="content-item" @click="goRouter(1)">
-                                <i class="icon-tingshen item-icon" style="color:#DC5322;"></i>
+                                <i class="icon-ruwu item-icon" style="color:#DC5322;"></i>
                                 <span class="item-name">大学生入伍</span>
                             </div>
                             <div class="content-item" @click="goRouter(2)">
@@ -49,15 +49,15 @@
                                 <span class="item-name">阳光政务</span>
                             </div>
                             <div class="content-item no-right" @click="goRouter(3)">
-                                <i class="icon-paimai item-icon" style="color:#46B35D;"></i>
+                                <i class="icon-guofang item-icon" style="color:#46B35D;"></i>
                                 <span class="item-name">国防知识</span>
                             </div>
                             <div class="content-item  no-left" @click="goRouter(4)">
-                                <i class="icon-jianxing item-icon" style="color:#0087D0;"></i>
+                                <i class="icon-shequ item-icon" style="color:#0087D0;"></i>
                                 <span class="item-name">社区园地</span>
                             </div>
                             <div class="content-item" @click="goRouter(5)">
-                                <i class="icon-panjue item-icon" style="color:#CC3A3D;"></i>
+                                <i class="icon-dangjian item-icon" style="color:#CC3A3D;"></i>
                                 <span class="item-name">基层党建</span>
                             </div>
                             <div class="content-item" @click="goRouter(6)">
@@ -73,7 +73,7 @@
                             <P class="content-title">轨迹管理</P>
                             <div class="content-item half no-left" @click="goRouter(8)">
                                 <span class="item-2" style="padding-top: 30px;">民兵登记</span>
-                                <i class="icon-jianyu item-icon item-half" style="color:#0087D0;"></i>
+                                <i class="icon-dengji item-icon item-half" style="color:#0087D0;font-size: 1.6rem;top:26px;"></i>
                             </div>
                             <div class="content-item half no-right" @click="goRouter(9)">
                                 <span class="item-2" style="padding-top: 30px;">开启定位</span>
@@ -81,13 +81,13 @@
                             </div>
                             <div class="content-item half no-left" style="border-bottom: 1px solid #E5E5E5;border-right: 1px solid #E5E5E5;" @click="goRouter(10)">
                                 <span class="item-2" style="padding-top: 30px;">民兵查询</span>
-                                <i class="icon-jiufen item-icon item-half" style="color:#FFD247;"></i>
+                                <i class="icon-jiufen item-icon item-half" style="color:#FFD247;font-size: 2.5rem;"></i>
                             </div>
                         </div>
                         <div class="content-list list-life" style="height: 120px;">
                             <P class="content-title">政治教育</P>
                             <div class="content-item  no-left" @click="goRouter(12)">
-                                <i class="icon-zhiyin item-icon" style="color:#FFCA66;"></i>
+                                <i class="icon-dangguan item-icon" style="color:#FFCA66;"></i>
                                 <span class="item-name">党管武装</span>
                             </div>
                             <div class="content-item" @click="goRouter(13)">
@@ -95,7 +95,7 @@
                                 <span class="item-name">法规</span>
                             </div>
                             <div class="content-item" @click="goRouter(14)">
-                                <i class="icon-jisuan item-icon" style="color:#0087D0;"></i>
+                                <i class="icon-zhidu item-icon" style="color:#0087D0;"></i>
                                 <span class="item-name">制度</span>
                             </div>
                             <div class="content-item no-right" @click="goRouter(15)">
